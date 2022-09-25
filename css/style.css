@@ -1,0 +1,44 @@
+.header,
+.footer {
+	color: aqua;
+}
+
+.link.page {
+	color: #a601cf;
+}
+
+a{
+	color: rgb(255, 0, 0);
+}
+
+.h1 {
+	color: black;
+}
+
+.h2 {
+	color: blue;
+}
+
+.h3 {
+	color: rgb(6, 206, 79);
+}
+
+span {
+	color: #ffa600;
+}
+
+div {
+	color: #2f3e97;
+}
+
+div.text1 {
+	color: #33A6AF;
+}
+
+/* .text ~ p {
+	color: rgb(6, 196, 79);
+} */
+
+/* .text + p {
+	color: red;
+} */
